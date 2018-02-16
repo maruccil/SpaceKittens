@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: fd4d3ebc04a0141dca7b5133d62f9be5
+timeCreated: 1518731723
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - enemyBulletSpawn: {instanceID: 0}
+  - enemyBulletPrefab: {fileID: 1390452914600408, guid: e571b1dedac554ce9af4987a9ee8d0eb,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
